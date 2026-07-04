@@ -11,6 +11,27 @@ A local Streamlit app for canvassing reports.
 - Updates the matching row in the final workbook.
 - Downloads a new updated workbook.
 
+## Deploy on Streamlit Community Cloud
+
+Repository:
+
+```text
+https://github.com/KDSGYT/crew-dnc-pl-ld-updater
+```
+
+Prefilled Streamlit deploy link:
+
+```text
+https://share.streamlit.io/deploy?repository=KDSGYT%2Fcrew-dnc-pl-ld-updater&branch=main&mainModule=app.py
+```
+
+Use these settings:
+
+- Repository: `KDSGYT/crew-dnc-pl-ld-updater`
+- Branch: `main`
+- Main file path: `app.py`
+- App URL/slug suggestion: `crew-dnc-pl-ld-updater`
+
 ## Run locally
 
 ```bash
